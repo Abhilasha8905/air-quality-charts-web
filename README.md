@@ -37,10 +37,6 @@ Ensure you have the following installed:
    npm install
    ```
 
-   ```
-
-   ```
-
 3. Start the development server:
    ```sh
    npm start
